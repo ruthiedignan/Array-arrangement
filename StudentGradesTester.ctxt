@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentGradesTester
+comment0.text=\n\ @purpose\:\ Tester\ to\ create\ an\ array\ of\ students'\ grades.\n\n\ @author\ Ruthie\ Dignan\n\ @version\ 1/26/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
